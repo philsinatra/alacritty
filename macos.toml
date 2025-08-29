@@ -1,0 +1,5 @@
+[font]
+size = 16
+
+normal = { family = "CaskaydiaMono Nerd Font", style = "Light" }
+bold = { family = "CaskaydiaMono Nerd Font", style = "Regular" }

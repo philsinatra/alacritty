@@ -1,11 +1,16 @@
+general.import = [
+    "~/.config/alacritty/os_specific.toml"
+]
+
 [env]
 TERM = "xterm-256color"
 
 [font]
-size = 10 
+offset.x = 0
+offset.y = 1
+glyph_offset.x = 0
+glyph_offset.y = 0
 
-normal = { family = "CaskaydiaMono Nerd Font", style = "Regular" }
-bold = { family = "CaskaydiaMono Nerd Font", style = "Bold" }
 italic = { family = "CaskaydiaMono Nerd Font", style = "Italic" }
 
 [window]
