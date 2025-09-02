@@ -11,8 +11,6 @@ offset.y = 1
 glyph_offset.x = 0
 glyph_offset.y = 0
 
-italic = { family = "CaskaydiaMono Nerd Font", style = "Italic" }
-
 [window]
 padding.x = 14
 padding.y = 14

@@ -1,5 +1,6 @@
 [font]
-size = 20 
+size = 16 
 
-normal = { family = "CaskaydiaMono Nerd Font", style = "Light" }
-bold = { family = "CaskaydiaMono Nerd Font", style = "Regular" }
+normal = { family = "GeistMono Nerd Font", style = "Regular" }
+bold   = { family = "GeistMono Nerd Font", style = "Regular" }
+italic = { family = "GeistMono Nerd Font", style = "Italic" }
