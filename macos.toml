@@ -1,6 +1,3 @@
 [font]
 size = 16 
 
-normal = { family = "GeistMono Nerd Font", style = "Light" }
-bold   = { family = "GeistMono Nerd Font", style = "Regular" }
-italic = { family = "GeistMono Nerd Font", style = "Italic" }

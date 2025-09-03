@@ -6,6 +6,10 @@ general.import = [
 TERM = "xterm-256color"
 
 [font]
+normal = { family = "GeistMono Nerd Font", style = "Light" }
+bold   = { family = "GeistMono Nerd Font", style = "Regular" }
+italic = { family = "GeistMono Nerd Font", style = "Italic" }
+
 offset.x = 0
 offset.y = 1
 glyph_offset.x = 0
